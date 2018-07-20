@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "smartthingspanel.backend", "smartthingspanel.backend\smartthingspanel.backend.csproj", "{656649B0-2B24-43E3-B944-A88E03710AEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "smartthingspanel.backend.test", "smartthingspanel.backend.test\smartthingspanel.backend.test.csproj", "{7BF4FAF4-B00C-4BF4-8E0C-38F798CD99FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{656649B0-2B24-43E3-B944-A88E03710AEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{656649B0-2B24-43E3-B944-A88E03710AEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{656649B0-2B24-43E3-B944-A88E03710AEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{656649B0-2B24-43E3-B944-A88E03710AEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BF4FAF4-B00C-4BF4-8E0C-38F798CD99FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BF4FAF4-B00C-4BF4-8E0C-38F798CD99FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BF4FAF4-B00C-4BF4-8E0C-38F798CD99FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BF4FAF4-B00C-4BF4-8E0C-38F798CD99FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A63A84EF-2F58-4918-BEDF-9D9605A512AD}
+	EndGlobalSection
+EndGlobal
